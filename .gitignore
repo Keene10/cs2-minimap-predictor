@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# Data & outputs
+data/demos/
+data/dataset/
+data/dataset_by_match/
+data/dataset_test/
+data/frames/
+data/parsed/
+data/parsed_csv/
+outputs/
+results/
+results_ablation/
+results_ablation_new/
+tmp/
+tmp_test_run/
+
+# Videos
+demo_videos/
+outputs_server/
+
+# Compiled paper artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models (too large)
+models/
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Extra files not needed for GitHub
+.kimi/
+code_submission/
+eval_*.py
+AGENT_HANDOFF.md
+EVAL_PLAN.md
+P3_prompt.md
+PPT*.md
+TODO_UI_and_Demo.md

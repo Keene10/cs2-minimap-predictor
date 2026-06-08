@@ -1,0 +1,82 @@
+{
+  "de_dust2": {
+    "A": {
+      "center": [870, 145],
+      "radius": 80
+    },
+    "B": {
+      "center": [188, 554],
+      "radius": 80
+    }
+  },
+  "de_mirage": {
+    "A": {
+      "center": [606, 423],
+      "radius": 80
+    },
+    "B": {
+      "center": [226, 263],
+      "radius": 80
+    }
+  },
+  "de_inferno": {
+    "A": {
+      "center": [814, 382],
+      "radius": 80
+    },
+    "B": {
+      "center": [140, 280],
+      "radius": 80
+    }
+  },
+  "de_nuke": {
+    "A": {
+      "center": [436, 470],
+      "radius": 70
+    },
+    "B": {
+      "center": [336, 348],
+      "radius": 70
+    }
+  },
+  "de_overpass": {
+    "A": {
+      "center": [580, 420],
+      "radius": 80
+    },
+    "B": {
+      "center": [280, 280],
+      "radius": 80
+    }
+  },
+  "de_ancient": {
+    "A": {
+      "center": [520, 380],
+      "radius": 80
+    },
+    "B": {
+      "center": [220, 300],
+      "radius": 80
+    }
+  },
+  "de_vertigo": {
+    "A": {
+      "center": [480, 350],
+      "radius": 70
+    },
+    "B": {
+      "center": [250, 280],
+      "radius": 70
+    }
+  },
+  "de_anubis": {
+    "A": {
+      "center": [550, 400],
+      "radius": 80
+    },
+    "B": {
+      "center": [250, 320],
+      "radius": 80
+    }
+  }
+}
